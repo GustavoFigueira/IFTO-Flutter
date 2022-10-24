@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:quiz_app/controllers/question_controller.dart';
-import 'package:quiz_app/models/Questions.dart';
+import 'package:quiz_app/models/questions.dart';
 
 import '../../../constants.dart';
 import 'option.dart';

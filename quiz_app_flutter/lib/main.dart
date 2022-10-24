@@ -7,7 +7,7 @@ void main() {
 }
 
 class MyApp extends StatelessWidget {
-  // This widget is the root of your application.
+  // Raiz da Aplicação
   @override
   Widget build(BuildContext context) {
     return GetMaterialApp(
