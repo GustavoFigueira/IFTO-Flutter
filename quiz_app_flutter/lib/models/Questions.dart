@@ -16,6 +16,18 @@ const List sample_data = [
   },
   {
     "id": 2,
+    "question": "Ano de apresentação do Dart",
+    "options": ['2010', '2011', '2012', '2013'],
+    "answer_index": 1,
+  },
+  {
+    "id": 3,
+    "question": "Qual plataforma o Flutter não roda?",
+    "options": ['Linux', 'macOS', 'Tamagotchi', 'Web'],
+    "answer_index": 2,
+  },
+  {
+    "id": 4,
     "question": "Qual jogo é melhor?",
     "options": ['LOL', 'Dota', 'CS:GO', 'Barbie World'],
     "answer_index": 3,
