@@ -1,0 +1,11 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "RODAR",
+            "program": "${workspaceRoot}/lib/main.dart",
+            "request": "launch",
+            "type": "dart",
+        }
+    ]
+} 
