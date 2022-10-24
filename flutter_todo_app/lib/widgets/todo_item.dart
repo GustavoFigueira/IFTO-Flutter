@@ -22,7 +22,7 @@ class ToDoItem extends StatelessWidget {
       child: ListTile(
         onTap: () {
           print('Clicou');
-          //emAlterarToDo(todo);
+          emAlterarToDo(todo);
         },
         shape: RoundedRectangleBorder(
           borderRadius: BorderRadius.circular(20),
